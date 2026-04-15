@@ -19,11 +19,11 @@ fun getAllPokemon(): List<Pokemon>{
                 Abilities(ability = "Teste 2")
             ),
             stats = listOf(
-                Stats(base_stat = 30),
-                Stats(base_stat = 30),
-                Stats(base_stat = 30),
-                Stats(base_stat = 30),
-                Stats(base_stat = 30),
+                Stats(base_stat = 10),
+                Stats(base_stat = 50),
+                Stats(base_stat = 90),
+                Stats(base_stat = 100),
+                Stats(base_stat = 31),
             ),
             types = listOf(
                 Types(type = "fire"),

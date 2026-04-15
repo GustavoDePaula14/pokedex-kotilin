@@ -63,4 +63,7 @@ dependencies {
     implementation("io.coil-kt.coil3:coil-compose:3.0.4")
     implementation("io.coil-kt.coil3:coil-network-okhttp:3.0.4")
 
+    implementation("androidx.compose.runtime:runtime-livedata:1.10.5")
+    implementation("androidx.navigation:navigation-compose:2.9.7")
+
 }
